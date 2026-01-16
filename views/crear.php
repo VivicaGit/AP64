@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Registrar Avistamiento</title>
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 </head>
 <body>
     <h2>Nuevo Avistamiento</h2>

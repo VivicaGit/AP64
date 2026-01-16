@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Santuario de Seres Fantásticos</title>
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 </head>
 <body>
     <h1>Censo de Criaturas Mitológicas</h1>
